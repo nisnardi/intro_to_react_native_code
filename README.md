@@ -1,1 +1,1 @@
-# intro_to_react_native_code
+# ComIT React Native Code
